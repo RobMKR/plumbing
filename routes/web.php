@@ -38,3 +38,7 @@ Route::get('/contact', function() {
 Route::post('/contact', function() {
     return view('contact')->with('email', 1);
 });
+
+Route::get('/pricing', function() {
+    return view('pricing');
+});

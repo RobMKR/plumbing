@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" type="image/png" href="images/favico.png">
 
 </head>
 <body>
@@ -38,7 +39,10 @@
                     <a class="nav-link" href="/contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/terms">Terms & Conditions</a>
+                    <a class="nav-link" href="/pricing">Pricing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/terms">Terms</a>
                 </li>
             </ul>
         </div>

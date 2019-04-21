@@ -13,6 +13,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" type="image/png" href="images/favico.png">
 
 </head>
 <body>
@@ -38,8 +39,12 @@
                     <a class="nav-link" href="/contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/terms">Terms & Conditions</a>
+                    <a class="nav-link" href="/pricing">Pricing</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/terms">Terms</a>
+                </li>
+
             </ul>
         </div>
     </div>
@@ -65,7 +70,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="inner-content"  data-aos="fade-up" data-aos-delay="300">
-                                    <img src="images/about-bg.jpg" alt="about-bg" class="thumbnail image">
+                                    <img src="images/serv1.jpg" alt="about-bg" class="thumbnail image">
                                     <p>Plumbing repairs come in all shapes and sizes, many times it is something simple that a professional
                                         is able to handle within an hour. If you are experiencing anything from slow drains
                                         to overflowing toilets, give Chin Plumbing Services a call today.
@@ -90,7 +95,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="inner-content"  data-aos="fade-up" data-aos-delay="300">
-                                    <img src="images/about-bg.jpg" alt="about-bg" class="thumbnail image">
+                                    <img src="images/serv2.jpg" alt="about-bg" class="thumbnail image">
                                     <p>Maybe you are looking for a new look?
                                         Or maybe you are building from the bottom up!
                                         Chin Plumbing Services does complete plumbing
@@ -115,7 +120,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="inner-content">
-                                    <img src="images/about-bg.jpg" alt="about-bg" class="thumbnail image">
+                                    <img src="images/serv3.jpg" alt="about-bg" class="thumbnail image">
                                     <p>Is your water suddenly running cold or not as hot as it used to be?
                                         If so you may need a hot water heater repair or replacement.
                                         Chin Plumbing Services offers both to residents and businesses.
@@ -140,7 +145,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="inner-content">
-                                    <img src="images/about-bg.jpg" alt="about-bg" class="thumbnail image">
+                                    <img src="images/serv4.jpg" alt="about-bg" class="thumbnail image">
                                     <p>We can clear all the drains in your house at once or simply unclog a slow-draining sink or bathtub.  We believe that no drain is unstoppable.Here is how it works:
 
                                         We insert a tiny, fiber optic video camera into your drain.  This allows us total vision into your sewer and water lines.
